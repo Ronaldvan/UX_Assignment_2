@@ -1,15 +1,14 @@
 # 🍽️ Ronald’s Café — UX Design Assignment 2
 
 This project is a **restaurant menu web design** created for the *Sketching and Design* assignment (Project 1: Restaurant Menu Page).  
-It focuses on **visual hierarchy**, **color harmony**, and **usability principles** inspired by the Uber Eats interface style.
+It focuses on **visual hierarchy**, **color harmony**, and **usability principles**.
 
 ---
 
 ## 🎯 Project Overview
 **Course:** User Experience Design (Assignment 2 — Sketching & Visual Design)  
 **Platform:** Web (Desktop layout)  
-**Project Type:** Restaurant Menu Page  
-**Theme:** Modern dark theme with Uber Eats-inspired colors  
+**Project Type:** Restaurant Menu Page    
 **Restaurant Name:** *Ronald’s Café*  
 
 The purpose of this design is to explore digital menu layouts that provide:
